@@ -132,7 +132,8 @@ export default {
   created() {
     this.flatIronCyberInstance = new FlatIronCyber();
     this.flatIronCyberInstance.setApiKey(
-      "8590347d-734b-427a-8eda-53019c487565-d34824e205036a301b26198d4261628f"
+      //"8590347d-734b-427a-8eda-53019c487565-d34824e205036a301b26198d4261628f"
+        "f02f2224-d114-4a3e-af78-2bdc5d757a97-c52cb97f8fa0453eb6c7d30e9dbb4a1d"
     );
   },
   computed: {
